@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    font-family: 'Mitr', sans-serif;
+}
+
+.collapse navbar-collapse {
+    margin-right: 15px;
+}
+
+.navbar {
+    background-color: rgb(0, 0, 0) 0);
+}
+
+.nav-link {
+    color: #FFFF;
+}
+
+.nav-link:hover {
+    font-family: 'Mitr', sans-serif;
+    color: gold;
+}
